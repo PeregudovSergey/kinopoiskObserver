@@ -5,9 +5,11 @@
 - ```/start``` - узнать информацию о боте
 - ```/help``` - узнать функционал
 - ```/GetDescription [filmName]``` - сделать запрос
+- '''@kinopoiskObserver_bot''' - username бота
 ## Запуск проекта
 ```
 python3 bot.py
+@kinopoiskObserver_bot
 ```
 ## Описание архитектуры проекта
 В файле requestHTML.py я обрабатываю запросы к странице kinopoisk.ru, используя библиотеки requests и BeautifulSoup. 

@@ -5,7 +5,7 @@
 - ```/start``` - узнать информацию о боте
 - ```/help``` - узнать функционал
 - ```/GetDescription [filmName]``` - сделать запрос
-- '''@kinopoiskObserver_bot''' - username бота
+- ```@kinopoiskObserver_bot``` - username бота
 ## Запуск проекта
 ```
 python3 bot.py

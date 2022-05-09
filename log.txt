@@ -1,0 +1,135 @@
+call GetDescription:
+боги наверное сошли с ума
+[LOG]URL
+https://www.kinopoisk.ru/index.php?kp_query=боги+наверное+сошли+с+ума
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]INFO
+{'data-id': '60285', 'url': '/film/60285', 'filmName': 'Боги, наверное, сошли с ума'}
+
+
+[LOG]URL
+https://www.kinopoisk.ru/film/60285/
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+call GetDescription:
+боги наверное почти с ума
+[LOG]URL
+https://www.kinopoisk.ru/index.php?kp_query=боги+наверное+почти+с+ума
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+call GetDescription:
+боги наверное сошли с ума
+[LOG]URL
+https://www.kinopoisk.ru/index.php?kp_query=боги+наверное+сошли+с+ума
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]INFO
+{'data-id': '60285', 'url': '/film/60285', 'filmName': 'Боги, наверное, сошли с ума'}
+
+
+[LOG]URL
+https://www.kinopoisk.ru/film/60285/
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+call GetDescription:
+бриллиантовая рука
+[LOG]URL
+https://www.kinopoisk.ru/index.php?kp_query=бриллиантовая+рука
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]INFO
+{'data-id': '46225', 'url': '/film/46225', 'filmName': 'Бриллиантовая рука'}
+
+
+[LOG]URL
+https://www.kinopoisk.ru/film/46225/
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]ITEM
+<div class="styles_topText__p__5L"><p class="styles_root__aZJRN" data-tid="bfd38da2">Контрабандисты гоняются за примерным семьянином. Народная комедия с элементами абсурда от Леонида Гайдая </p></div>
+
+
+end GetDescription
+call GetDescription:
+неспящие в сиэтле
+[LOG]URL
+https://www.kinopoisk.ru/index.php?kp_query=неспящие+в+сиэтле
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]INFO
+{'data-id': '1573', 'url': '/film/1573', 'filmName': 'Неспящие в Сиэттле'}
+
+
+[LOG]URL
+https://www.kinopoisk.ru/film/1573/
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]ITEM
+<div class="styles_topText__p__5L"><p class="styles_root__aZJRN" data-tid="bfd38da2">Мальчик помогает овдовевшему отцу вновь найти любовь. Ромком на все времена с Томом Хэнксом и Мег Райан</p></div>
+
+
+end GetDescription
+call GetDescription:
+душа
+[LOG]URL
+https://www.kinopoisk.ru/index.php?kp_query=душа
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]INFO
+{'data-id': '775273', 'url': '/film/775273', 'filmName': 'Душа'}
+
+
+[LOG]URL
+https://www.kinopoisk.ru/film/775273/
+
+
+[LOG]RESPONSE_ON_REQUEST
+<Response [200]>
+
+
+[LOG]ITEM
+<div class="styles_topText__p__5L"><p class="styles_root__aZJRN" data-tid="bfd38da2">Джазмен хочет сбежать с того света на концерт. Фантазия о призвании и важных мелочах жизни от автора «Вверх»</p></div>
+
+
+end GetDescription
